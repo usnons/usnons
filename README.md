@@ -3,11 +3,11 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  -IoT Security: As the use of IoT devices continues to grow, IoT security has become a critical concern. Designing and implementing a secure IoT architecture, or conducting research on IoT security threats and mitigation techniques, would be an interesting and valuable project to include on your resume.
+  
+  -Cyber Threat Intelligence: Cyber threat intelligence is becoming increasingly important for organizations to stay ahead of potential cyber threats. Conducting research on emerging cyber threats and developing threat intelligence reports would be a great way to demonstrate your knowledge and expertise in this area.
+  
+ -Application Security: With the increasing amount of software used in all industries, application security has become a top concern. Conducting research on emerging application security threats and vulnerabilities, or developing secure coding practices and tools for software developers, would be a valuable project to include on your resume.
 
 <h2>👨‍💻 Certifications:</h2>
 

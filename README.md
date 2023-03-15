@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathan! <a href="https://www.linkedin.com/in/nathan-niha-403592223/">Cybersecurity Enthusiast</a> </a></h1>
+<h1>Hi, I'm Nathan! <a href="https://www.linkedin.com/in/nathan-niha-403592223/">Cybersecurity Enthusiast(Linkedin)</a> </a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 

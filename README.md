@@ -3,7 +3,8 @@
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
 
-  -IoT Security: As the use of IoT devices continues to grow, IoT security has become a critical concern. Designing and implementing a secure IoT architecture, or conducting research on IoT security threats and mitigation techniques, would be an interesting and valuable project to include on your resume.
+-UFC Stats Puller(Web Scraper) 
+This project scrapes data from the UFCStats website using Python and BeautifulSoup, and outputs the stats of all fighters into a CSV file. The data includes each fighter's first and last name, nickname (if any), height, weight, reach, stance, wins, losses, draws, and belt. The program can be run with a single command and the resulting file can be used for further analysis. This project showcases web scraping, data processing, and file I/O skills, and can serve as a starting point for exploring UFC fighter stats or similar websites.
   
   -Cyber Threat Intelligence: Cyber threat intelligence is becoming increasingly important for organizations to stay ahead of potential cyber threats. Conducting research on emerging cyber threats and developing threat intelligence reports would be a great way to demonstrate your knowledge and expertise in this area.
   

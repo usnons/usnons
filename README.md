@@ -13,7 +13,8 @@ This project scrapes data from the UFCStats website using Python and BeautifulSo
 <h2>👨‍💻 Certifications:</h2>
 
   - <b>Comptia A+</b>
-  - <b>Comptia Network</b>
+  - <b>Comptia Network+</b>
+  - <b>Comptia Security+</b>
   - <b>Splunk Search Expert</b>
-  - <b>Currently studying for Comptia Security and Pentest+</b>
+  - <b>Currently studying for Comptia Pentest+</b>
   

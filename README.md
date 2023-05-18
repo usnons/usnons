@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathan! <a href="https://www.linkedin.com/in/nathan-niha-403592223/">Cybersecurity Enthusiast(Linkedin)</a> </a></h1>
+<h1>Hi, I'm Nathan! <a href="https://www.linkedin.com/in/nathan-niha-403592223/">Cybersecurity Novice(Linkedin)</a> </a></h1>
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
@@ -17,5 +17,5 @@ This is a basic keylogger written in Python using the pynput library. It capture
   - <b>Comptia Network+</b>
   - <b>Comptia Security+</b>
   - <b>Splunk Search Expert</b>
-  - <b>Currently studying for Comptia Pentest+</b>
+  - <b>Comptia Pentest+</b>
   

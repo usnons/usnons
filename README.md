@@ -18,4 +18,4 @@ This is a basic keylogger written in Python using the pynput library. It capture
   - <b>Comptia Security+</b>
   - <b>Splunk Search Expert</b>
   - <b>Comptia Pentest+</b>
-  
+  - <b>QualysGuard</b>
